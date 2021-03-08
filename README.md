@@ -23,6 +23,6 @@ pygame library to play that converter voice from the text.
 #### Define functions
 
 ##### ScreenShots
-![screenshot of window](https://github.com/zeynep-dmrl/Text_to_Speech/tree/main/img/screenShot1.png)
+![ss](https://github.com/zeynep-dmrl/Text_to_Speech/blob/main/img/screenShot1.PNG)
 
-![screenshot of window](https://github.com/zeynep-dmrl/Text_to_Speech/tree/main/img/screenShot2.png)
+![ss](https://github.com/zeynep-dmrl/Text_to_Speech/blob/main/img/screenShot2.PNG)
