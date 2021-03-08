@@ -18,6 +18,11 @@ I used the popular tkinter library for rendering graphics on a display window,
 gTTs (google text to speech) library to convert text to voice, and 
 pygame library to play that converter voice from the text.
 
-###### Importing the modules
-###### Create the display window
-###### Define functions
+#### Importing the modules
+#### Create the display window
+#### Define functions
+
+##### ScreenShots
+![screenshot of window](https://github.com/zeynep-dmrl/Text_to_Speech/tree/main/img/screenShot1.png)
+
+![screenshot of window](https://github.com/zeynep-dmrl/Text_to_Speech/tree/main/img/screenShot2.png)
