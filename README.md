@@ -1,6 +1,6 @@
 # Text_to_Speech
 Text to speech is a process to convert any text into voice. Different API’s are 
-available in Python in order to convert text to speech. One of Such API’s is the 
+available in Python in order to convert text to speech. One of such API’s is the 
 Google Text to Speech commonly known as the gTTS API. It is very easy to use the 
 library which converts the text entered, into an audio file which can be saved as 
 a mp3 file. It supports several languages and the speech can be delivered in any 
